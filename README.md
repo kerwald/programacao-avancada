@@ -8,7 +8,7 @@ Abaixo, encontra-se uma tabela com todos os trabalhos, seus links correspondente
 |----------|-----------------------------------------|---------------------------------------------------------------------|-------------------------------------------|
 | 1        | Tue Sep 23 01:34:50                     | [Gear Up!](https://github.com/kerwald/Gear-Up)                      | Sim                                       |
 | 2        | Sun Oct 5 09:04:56                      | [Voronoy Diagram](https://github.com/kerwald/voronoi-diagram)       | Sim                                       |
-| 3        |                                         | [Envoltorio Convexo](https://github.com/kerwald/envoltoria-convexa) |                                           |                            
+| 3        | Sat Oct 18 23:34:05                     | [Envoltorio Convexo](https://github.com/kerwald/envoltoria-convexa) | Sim                                       |                            
 |          |                                         |                                                                     |                                           |
 | 15       |                                         |                                                                     |                                           |
 
