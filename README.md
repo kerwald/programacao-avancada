@@ -4,15 +4,14 @@ Este repositório serve como índice dos trabalhos desenvolvidos para a discipli
 
 Abaixo, encontra-se uma tabela com todos os trabalhos, seus links correspondentes, data/hora da última entrega e status conforme solicitado pelo professor.
 
-| Trabalho | Data e hora da entrega do último arquivo | Link para os repositorios no GIT | Fez tudo o que foi solicitado e no prazo? |
-|----------|-----------------------------------------|---------------------------------------------------------------------|-------------------------------------------|
-| 1        | Tue Sep 23 01:34:50                     | [Gear Up!](https://github.com/kerwald/Gear-Up)                      | Sim                                       |
-| 2        | Sun Oct 5 09:04:56                      | [Voronoy Diagram](https://github.com/kerwald/voronoi-diagram)       | Sim                                       |
-| 3        | Sat Oct 18 23:41:16                     | [Envoltória Convexa](https://github.com/kerwald/envoltoria-convexa) | Sim                                       |                            
-| 4        |  Sat Nov 15 22:41:05                    | [Soma de Minkowski](https://github.com/kerwald/soma-de-minkowski)   | Não - (Entrega Atrasada)                  |
-| 5        |                                         |                                                                     |                                           |
-| 6        |                                         |                                                                     |                                           |
-| 7        |                                         |                                                                     |                                           |
-|          |                                         |                                                                     |                                           |
-| 15       |                                         |                                                                     |                                           |
-
+| Trabalho | Data e hora da entrega do último arquivo | Link para os repositorios no GIT |
+|----------|------------------------------------------|---------------------------------------------------------------------|
+| 1        | Tue Sep 23 01:34:50                      | [Gear Up!](https://github.com/kerwald/Gear-Up)                      |
+| 2        | Sun Oct 5 09:04:56                       | [Voronoy Diagram](https://github.com/kerwald/voronoi-diagram)       |
+| 3        | Sat Oct 18 23:41:16                      | [Envoltória Convexa](https://github.com/kerwald/envoltoria-convexa) |
+| 4        | Sat Nov 15 22:41:05                      | [Soma de Minkowski](https://github.com/kerwald/soma-de-minkowski)   |
+| 5        |                                          |                                                                     |
+| 6        |                                          |                                                                     |
+| 7        |                                          |                                                                     |
+|          |                                          |                                                                     |
+| 15       |                                          |                                                                     |
